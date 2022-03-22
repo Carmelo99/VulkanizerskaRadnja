@@ -149,7 +149,7 @@ public class AutoGuma {
 	 */
 	@Override
 	public String toString() {
-		return"AutoGuma [markaModel=" + markaModel + ", precnik=" + precnik + ", sirina=" + sirina + ", visina=" + visina + "]";
+		return "AutoGuma [markaModel=" + markaModel + ", precnik=" + precnik + ", sirina=" + sirina + ", visina=" + visina + "]";
 		}
 	
 	/**
